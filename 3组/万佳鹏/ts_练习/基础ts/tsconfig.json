@@ -1,0 +1,5 @@
+{
+    "compilerOptions": { //编译选项,可以被忽略，这时编译器会使用默认值
+        "strictNullChecks": false, //在严格的null检查模式下，null和undefined值不包含在任何类型里，只允许赋值给void和本身对应的类型。
+    }
+}
